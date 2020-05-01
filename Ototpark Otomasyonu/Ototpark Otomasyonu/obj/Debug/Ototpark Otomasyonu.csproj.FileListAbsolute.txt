@@ -1,0 +1,11 @@
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\bin\Debug\Ototpark Otomasyonu.exe.config
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\bin\Debug\Ototpark Otomasyonu.exe
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\bin\Debug\Ototpark Otomasyonu.pdb
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark_Otomasyonu.Properties.Resources.resources
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark Otomasyonu.exe
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark Otomasyonu.pdb
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark_Otomasyonu.Personel_Giriş_Sayfası.resources
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark_Otomasyonu.Personel_Ana_Sayfası.resources
+C:\Users\REYYAN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark_Otomasyonu.Müşteri_Kayıt.resources
+C:\Users\reyyaN\Desktop\Ototpark Otomasyonu\Ototpark Otomasyonu\obj\Debug\Ototpark_Otomasyonu.Araç_Giriş_Çıkış.resources
