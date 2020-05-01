@@ -1,14 +1,13 @@
 1 # otoparp_oto.
 2 Personel Sistemi
-3 Personel ,personel giriş sayfasından otrumunu açarak personel ana sayfasına geçiş yapar.          
-
-4 Personel ,otoparka gelen müşteriyi eğer otoparka kayıtlı ise aracın girişini yapar.
-5 Eğer gelen müşteri kayıtlı değil ise önce müşteri kaydını yapar sonra araç girişini yapar.
-6 Önceden kendi internet hesbından rezervasyon yapıp gelenler için ise
-7 Rezervasyonları görüntüle kısmına girerek oradan rezervasyon yapanları görürüz.
-8 Gelen aracın bilgilerine göre tablo üzerinden rezervasyonlu araç seçilip otoparka girişi yapılır.
-9 Araç girişinin yapıldığı yerden araç çıkışı yapılır.
-10 Aracın kalış süresine göre ücret hesaplanır.
-11 Müşteriden ücret elden alınır.
-12 İşlem bitincede personel ana sayfasına gidilir.
-13 Personel ana sayfasından çıkış yap butonuna basılarak parsonel giriş sayfasına gidilir. 
+3 Personel ,personel giriÅŸ sayfasÄ±ndan otrumunu aÃ§arak personel ana sayfasÄ±na geÃ§iÅŸ yapar.          
+4 Personel ,otoparka gelen mÃ¼ÅŸteriyi eÄŸer otoparka kayÄ±tlÄ± ise aracÄ±n giriÅŸini yapar.
+5 EÄŸer gelen mÃ¼ÅŸteri kayÄ±tlÄ± deÄŸil ise Ã¶nce mÃ¼ÅŸteri kaydÄ±nÄ± yapar sonra araÃ§ giriÅŸini yapar.
+6 Ã–nceden kendi internet hesbÄ±ndan rezervasyon yapÄ±p gelenler iÃ§in ise
+7 RezervasyonlarÄ± gÃ¶rÃ¼ntÃ¼le kÄ±smÄ±na girerek oradan rezervasyon yapanlarÄ± gÃ¶rÃ¼rÃ¼z.
+8 Gelen aracÄ±n bilgilerine gÃ¶re tablo Ã¼zerinden rezervasyonlu araÃ§ seÃ§ilip otoparka giriÅŸi yapÄ±lÄ±r.
+9 AraÃ§ giriÅŸinin yapÄ±ldÄ±ÄŸÄ± yerden araÃ§ Ã§Ä±kÄ±ÅŸÄ± yapÄ±lÄ±r.
+10 AracÄ±n kalÄ±ÅŸ sÃ¼resine gÃ¶re Ã¼cret hesaplanÄ±r.
+11 MÃ¼ÅŸteriden Ã¼cret elden alÄ±nÄ±r.
+12 Ä°ÅŸlem bitincede personel ana sayfasÄ±na gidilir.
+13 Personel ana sayfasÄ±ndan Ã§Ä±kÄ±ÅŸ yap butonuna basÄ±larak parsonel giriÅŸ sayfasÄ±na gidilir. 
